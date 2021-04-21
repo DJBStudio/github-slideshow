@@ -2,5 +2,5 @@
 layout: slide
 title: welcome to our second slide
 ---
-Your Text here 
+Narwhal bacon tastes bad 
 Use the left arrow to go back!
